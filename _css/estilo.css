@@ -1,0 +1,19 @@
+    table {
+        background-color: rgb(0, 0, 0);
+        text-align: center;
+        border: 5px solid;
+        border-color: gray;
+        font-size:larger;
+        font-family:'Anton', sans-serif;
+
+    }
+    th,td{
+        color: white;
+    }
+    td:nth-child(1),th:nth-child(1) {
+        color: red;
+        
+    }
+    td:nth-child(7),th:nth-child(7) {
+        color: blue;
+    }
